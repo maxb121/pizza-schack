@@ -29,3 +29,9 @@
 | Cola             | 5 zł  |
 | Woda mineralna   | 3 zł  |
 | Sok pomarańczowy| 6 zł  |
+
+## Dla wegetarian
+| Nazwa Pizzy             | Cena  | Składniki                        |
+| ----------------------- | ----- | -------------------------------- |
+| Pizza Veggie            | 26 zł | Papryka, pieczarki, oliwki, cebula, sos pomidorowy |
+| Margherita (wersja wegetariańska) | 22 zł | Mozzarella, bazylia, sos pomidorowy |
