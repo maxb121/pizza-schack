@@ -33,5 +33,5 @@
 ## Dla wegetarian
 | Nazwa Pizzy             | Cena  | Składniki                        |
 | ----------------------- | ----- | -------------------------------- |
-| Pizza Veggie            | 26 zł | Papryka, pieczarki, oliwki, cebula, sos pomidorowy |
+| Pizza Zielona Ekstra    | 26 zł | Papryka, pieczarki, oliwki, cebula, sos pomidorowy |
 | Margherita (wersja wegetariańska) | 22 zł | Mozzarella, bazylia, sos pomidorowy |
